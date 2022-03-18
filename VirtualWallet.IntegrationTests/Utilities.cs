@@ -89,7 +89,7 @@ namespace VirtualWallet.IntegrationTests
                             }
                         },
                     }
-                }
+                },
 
                 new User()
                 {
