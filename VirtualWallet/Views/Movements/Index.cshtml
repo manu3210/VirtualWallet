@@ -1,0 +1,38 @@
+﻿@model IEnumerable<VirtualWallet.DTO.MovementDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>@ViewData["AccountName"]</h1>
+
+<div class="container">
+    <div class="row m-5">
+        <div class="col-12">
+            <table class="table table-dark table-striped">
+                <tr>
+                    <td align="right">
+                        nombre de la cuenta
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        Account Number: @ViewBag.AccountId
+                    </td>
+                    <td>
+                        Balance: saldo
+                    </td>
+                </tr>
+            </table>
+            <table>
+               
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

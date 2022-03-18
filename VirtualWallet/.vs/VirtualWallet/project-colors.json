@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c00f2f4-16c5-44d3-baea-48df5494d13d": {
+      "ProjectGuid": "5c00f2f4-16c5-44d3-baea-48df5494d13d",
+      "DisplayName": "VirtualWallet",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4ec3e72d-ed05-4758-bedb-b0d8a7a5783d": {
+      "ProjectGuid": "4ec3e72d-ed05-4758-bedb-b0d8a7a5783d",
+      "DisplayName": "VirtualWallet.UnitTests",
+      "ColorIndex": 1
+    },
+    "ff8640ed-401c-4edc-b39d-9429e1b2a68a": {
+      "ProjectGuid": "ff8640ed-401c-4edc-b39d-9429e1b2a68a",
+      "DisplayName": "VirtualWallet.UnitTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

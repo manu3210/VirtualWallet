@@ -1,0 +1,569 @@
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\appsettings.Development.json
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\appsettings.json
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.exe
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.deps.json
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.runtimeconfig.json
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.runtimeconfig.dev.json
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ref\VirtualWallet.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.Views.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.Views.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Humanizer.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.AssemblyInfoInputs.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.AssemblyInfo.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.CoreCompileInputs.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.MvcApplicationPartsAssemblyInfo.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorAssemblyInfo.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorAssemblyInfo.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\staticwebassets\VirtualWallet.StaticWebAssets.Manifest.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\scopedcss\bundle\VirtualWallet.styles.css
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.TagHelpers.input.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.TagHelpers.output.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorCoreGenerate.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorTargetAssemblyInfo.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorTargetAssemblyInfo.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.Views.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.CopyComplete
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\ref\VirtualWallet.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.pdb
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.genruntimeconfig.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Create.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Delete.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Details.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Edit.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Index.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Create.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Delete.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Details.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Edit.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Index.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.AssemblyReference.cache
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\SignIn.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Transfer.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Result.cshtml.g.cs
+D:\Usuarios\Manu\Escritorio\Virtual Wallet\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\AddMoney.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\appsettings.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.StaticWebAssets.xml
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.exe
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.deps.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.runtimeconfig.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.runtimeconfig.dev.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ref\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.Views.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\VirtualWallet.Views.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Humanizer.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.AssemblyReference.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.AssemblyInfoInputs.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.AssemblyInfo.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.CoreCompileInputs.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorAssemblyInfo.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorAssemblyInfo.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\scopedcss\bundle\VirtualWallet.styles.css
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\staticwebassets\VirtualWallet.StaticWebAssets.Manifest.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.TagHelpers.input.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.TagHelpers.output.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorCoreGenerate.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\AddMoney.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Create.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Delete.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Details.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Edit.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Result.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Transfer.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Create.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Delete.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Details.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Edit.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\SignIn.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorTargetAssemblyInfo.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorTargetAssemblyInfo.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.Views.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.CopyComplete
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\ref\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.genruntimeconfig.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\obj\Debug\net5.0\VirtualWallet.MvcApplicationPartsAssemblyInfo.cs
+<<<<<<< HEAD:obj/Debug/net5.0/VirtualWallet.csproj.FileListAbsolute.txt
+=======
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\appsettings.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.StaticWebAssets.xml
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.exe
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.deps.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.runtimeconfig.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.runtimeconfig.dev.json
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ref\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.Views.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\VirtualWallet.Views.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Humanizer.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.AssemblyReference.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.AssemblyInfoInputs.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.AssemblyInfo.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.CoreCompileInputs.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorAssemblyInfo.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorAssemblyInfo.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\scopedcss\bundle\VirtualWallet.styles.css
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\staticwebassets\VirtualWallet.StaticWebAssets.Manifest.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.TagHelpers.input.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.TagHelpers.output.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorCoreGenerate.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\AddMoney.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Create.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Delete.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Details.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Edit.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Result.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Accounts\Transfer.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Create.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Delete.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Details.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Edit.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Movements\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\Users\SignIn.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorTargetAssemblyInfo.cache
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.RazorTargetAssemblyInfo.cs
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.Views.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.csproj.CopyComplete
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\ref\VirtualWallet.dll
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.pdb
+C:\Users\erivas\Desktop\Projects\VirtualWallet\VirtualWallet\obj\Debug\net5.0\VirtualWallet.genruntimeconfig.cache
+>>>>>>> UnitTests:VirtualWallet/obj/Debug/net5.0/VirtualWallet.csproj.FileListAbsolute.txt

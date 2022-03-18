@@ -1,0 +1,13 @@
+﻿using System.Collections.Generic;
+
+namespace VirtualWallet.Interfaces
+{
+    public interface IService<T>
+    {
+        public T Create(T element);
+        public T Get(int id);
+        public T Update(int id, T element);
+        public void Delete(int id);
+        public List<T> GetAll();
+    }
+}

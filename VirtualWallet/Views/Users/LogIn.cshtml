@@ -1,0 +1,18 @@
+﻿<div class="row align-middle justify-content-center align-items-center minh-80">
+    <div class="col-6">
+        <div class="container bg-secondary p-4 text-light">
+            <form asp-action="LogIn">
+              <div class="mb-3">
+                <label class="form-label">Email address</label>
+                <input type="email" name="Email" class="form-control" aria-describedby="emailHelp">
+              </div>
+              <div class="mb-3">
+                <label  class="form-label">Password</label>
+                <input type="password" name="Password" class="form-control">
+              </div>
+              <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back</a>
+              <div class="float-right"><button type="submit" class="btn btn-primary">Log In!</button></div>
+            </form>
+        </div>
+    </div>
+</div>

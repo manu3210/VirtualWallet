@@ -1,0 +1,41 @@
+﻿@model VirtualWallet.DTO.MovementDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+<br />
+<h1>Movement Details</h1>
+<br />
+<div class="container">
+    <div class="row align-items-center justify-content-center">
+        <table class="table table-secondary">
+            <tr>
+                <td> @Html.DisplayNameFor(model => model.Id) </td>
+                <td> @Html.DisplayFor(model => model.Id) </td>
+            </tr>
+            <tr>
+                <td> @Html.DisplayNameFor(model => model.Date) </td>
+                <td> @Html.DisplayFor(model => model.Date) </td>
+            </tr>
+            <tr>
+                <td> @Html.DisplayNameFor(model => model.Detail) </td>
+                <td> @Html.DisplayFor(model => model.Detail) </td>
+            </tr>
+            <tr>
+                <td> @Html.DisplayNameFor(model => model.amount) </td>
+                <td> @Html.DisplayFor(model => model.amount) </td>
+            </tr>
+            <tr>
+                <td> @Html.DisplayNameFor(model => model.remarks) </td>
+                <td> @Html.DisplayFor(model => model.remarks) </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Add comments</a> |
+    <a asp-controller="Accounts" asp-action="Details" asp-route-id="@Model.AccountId">Back</a>
+</div>

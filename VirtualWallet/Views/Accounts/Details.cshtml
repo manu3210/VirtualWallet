@@ -1,0 +1,83 @@
+﻿@model VirtualWallet.DTO.AccountDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Html.DisplayFor(model => model.Name)</h1>
+
+<div class="container">
+    <div class="row m-5">
+        <div class="col-12">
+            <table class="table table-dark table-striped">
+                <tr>
+                    <td align="right">
+                        @Html.DisplayFor(model => model.Name)
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        Account Number: @Html.DisplayFor(model => model.Id)
+                    </td>
+                    <td>
+                        Balance: @Html.DisplayFor(model => model.Balance)
+                    </td>
+                </tr>
+            </table>
+            
+                
+            
+            <table class="table table-secondary table-hover">
+                <thead>
+                    <tr>
+                        <td>
+                            Date
+                        </td>
+                        <td>
+                            Detail
+                        </td>
+                        <td>
+                            Amount
+                        </td>
+                        <td>
+                            Transaction Id
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                </thead>
+                @foreach(var item in Model.MovementsList)
+                {
+                    
+               <tr>
+                   <td>
+                       @Html.DisplayFor(modelItem => item.Date)
+                   </td>
+                   <td>
+                       @Html.DisplayFor(modelItem => item.Detail)
+                   </td>
+                   <td>
+                       @Html.DisplayFor(modelItem => item.amount)
+                   </td>
+                   <td>
+                       @Html.DisplayFor(modelItem => item.Id)
+                   </td>
+                   <td>
+                       <a asp-controller="Movements" asp-action="Details" asp-route-id="@item.Id" >Details</a>
+                   </td>
+               </tr>
+
+                }
+            </table>
+
+        </div>
+    </div>
+</div>
+
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

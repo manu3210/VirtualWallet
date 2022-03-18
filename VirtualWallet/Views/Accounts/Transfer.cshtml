@@ -1,0 +1,29 @@
+﻿@model IEnumerable<VirtualWallet.DTO.AccountDto>
+
+<div class="container">
+    <div class="row minh-80 align-items-center justify-content-center">
+        <div class="col">
+            <form asp-action="Transfer">
+              <div class="mb-3">
+                  <label for="from" class="form-label">From account:</label>
+                    <select name="FromId" class="custom-select"  aria-label="Default select example">
+                        @foreach(var item in Model)
+                            {
+                                <option value="@item.Id">Name: @item.Name - Balance: @item.Balance</option>
+                            }
+                    </select>
+              </div>
+              <div class="mb-3">
+                <label for="id" class="form-label">To account id: </label>
+                <input type="number" name="ToId" class="form-control" id="id">
+              </div>
+              <div class="mb-3">
+                <label for="id" class="form-label">Amount to transfer: </label>
+                <input type="text" name="Amount" class="form-control" id="id">
+              </div>
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
