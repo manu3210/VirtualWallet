@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
 
@@ -13,34 +14,34 @@ namespace VirtualWallet.Services
             _userRepository = userRepository;
         }
 
-        public User Create(User element)
+        public async Task<User> Create(User element)
         {
-            return _userRepository.Create(element);
+            return await _userRepository.CreateAsync(element);
         }
 
-        public User Update(int id, User element)
+        public async Task<User> Update(int id, User element)
         {
-            return _userRepository.Update(id, element);
+            return await _userRepository.UpdateAsync(id, element);
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            _userRepository.Delete(id);
+            await _userRepository.DeleteAsync(id);
         }
 
-        public User Get(int id)
+        public async Task<User> Get(int id)
         {
-            return _userRepository.Get(id);
+            return await _userRepository.GetAsync(id);
         }
 
-        public List<User> GetAll()
+        public async Task<List<User>> GetAll()
         {
-            return _userRepository.GetAll();
+            return await _userRepository.GetAllAsync();
         }
 
-        public User GetForLogin(string email, string password)
+        public async Task<User> GetForLogin(string email, string password)
         {
-            return _userRepository.GetForLogin(email, password);
+            return await _userRepository.GetForLoginAsync(email, password);
         }
     }
 }

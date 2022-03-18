@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using VirtualWallet.DTO;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
@@ -16,11 +17,11 @@ namespace VirtualWallet.Controllers
             _userService = userService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             var list = new List<UserDto>();
 
-            foreach (User user in _userService.GetAll())
+            foreach (User user in await _userService.GetAll())
             {
                 list.Add(new UserDto(user));
             }
@@ -28,14 +29,14 @@ namespace VirtualWallet.Controllers
             return View(list);
         }
 
-        public IActionResult Details(int? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var user = _userService.Get((int)id);
+            var user = await _userService.Get((int)id);
             if (user == null)
             {
                 return NotFound();
@@ -51,24 +52,24 @@ namespace VirtualWallet.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult SignIn([Bind("Id,FirstName,LastName,DateOfBirth,Dni,Email,UserName,Password")] UserDto user)
+        public async Task<IActionResult> SignIn([Bind("Id,FirstName,LastName,DateOfBirth,Dni,Email,UserName,Password")] UserDto user)
         {
             if (ModelState.IsValid)
             {
-                _userService.Create(UserDto.DtoToEntity(user));
+                await _userService.Create(UserDto.DtoToEntity(user));
                 return RedirectToAction("Index", "Home");
             }
             return View(user);
         }
 
-        public IActionResult Edit(int? id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var user = _userService.Get((int)id);
+            var user = await _userService.Get((int)id);
             if (user == null)
             {
                 return NotFound();
@@ -79,7 +80,7 @@ namespace VirtualWallet.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, [Bind("Id,FirstName,LastName,DateOfBirth,Dni,Email,UserName,Password")] UserDto user)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,FirstName,LastName,DateOfBirth,Dni,Email,UserName,Password")] UserDto user)
         {
             if (id != user.Id)
             {
@@ -88,20 +89,20 @@ namespace VirtualWallet.Controllers
 
             if (ModelState.IsValid)
             {
-                _userService.Update(id, UserDto.DtoToEntity(user));
+                await _userService.Update(id, UserDto.DtoToEntity(user));
                 return RedirectToAction(nameof(Index));
             }
             return View(user);
         }
 
-        public IActionResult Delete(int? id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var user = _userService.Get((int)id);
+            var user = await _userService.Get((int)id);
             if (user == null)
             {
                 return NotFound();
@@ -112,9 +113,9 @@ namespace VirtualWallet.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public IActionResult DeleteConfirmed(int id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            _userService.Delete(id);
+            await _userService.Delete(id);
             return RedirectToAction(nameof(Index));
         }
 
@@ -125,18 +126,17 @@ namespace VirtualWallet.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Login(string email, string password)
+        public async Task<IActionResult> Login(string email, string password)
         {
             if (email != null && password != null)
             {
-                var user = _userService.GetForLogin(email, password);
+                var user = await _userService.GetForLogin(email, password);
 
                 if (user != null)
                 {
                     HttpContext.Session.SetInt32("user", user.Id);
                     return RedirectToAction("Index", "Accounts");
                 }
-
             }
 
             return View();
@@ -146,6 +146,5 @@ namespace VirtualWallet.Controllers
         {
             return View("SignIn");
         }
-
     }
 }

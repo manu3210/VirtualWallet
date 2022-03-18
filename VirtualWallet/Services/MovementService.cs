@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
 
@@ -13,29 +14,29 @@ namespace VirtualWallet.Services
             _movementRepository = movementRepository;
         }
 
-        public Movements Create(Movements element)
+        public async Task<Movements> Create(Movements element)
         {
-            return _movementRepository.Create(element);
+            return await _movementRepository.CreateAsync(element);
         }
 
-        public Movements Update(int id, Movements element)
+        public async Task<Movements> Update(int id, Movements element)
         {
-            return _movementRepository.Update(id, element);
+            return await _movementRepository.UpdateAsync(id, element);
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            _movementRepository.Delete(id);
+            await _movementRepository.DeleteAsync(id);
         }
 
-        public Movements Get(int id)
+        public async Task<Movements> Get(int id)
         {
-            return _movementRepository.Get(id);
+            return await _movementRepository.GetAsync(id);
         }
 
-        public List<Movements> GetAll()
+        public async Task<List<Movements>> GetAll()
         {
-            return _movementRepository.GetAll();
+            return await _movementRepository.GetAllAsync();
         }
     }
 }

@@ -1,9 +1,10 @@
-﻿using VirtualWallet.Models;
+﻿using System.Threading.Tasks;
+using VirtualWallet.Models;
 
 namespace VirtualWallet.Interfaces
 {
     public interface IUserService : IService<User>
     {
-        public User GetForLogin(string email, string password);
+        Task<User> GetForLogin(string email, string password);
     }
 }

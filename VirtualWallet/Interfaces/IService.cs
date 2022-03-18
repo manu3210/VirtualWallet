@@ -1,13 +1,14 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace VirtualWallet.Interfaces
 {
     public interface IService<T>
     {
-        public T Create(T element);
-        public T Get(int id);
-        public T Update(int id, T element);
-        public void Delete(int id);
-        public List<T> GetAll();
+        Task<T> Create(T element);
+        Task<T> Get(int id);
+        Task<T> Update(int id, T element);
+        Task Delete(int id);
+        Task<List<T>> GetAll();
     }
 }

@@ -1,5 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
 
@@ -14,40 +16,41 @@ namespace VirtualWallet.Repository
             _context = context;
         }
 
-        public T Create(T element)
+        public async Task<T> CreateAsync(T element)
         {
             _context.Set<T>().Add(element);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
             return element;
         }
 
-        public void Delete(int id)
+        public async Task DeleteAsync(int id)
         {
-            _context.Set<T>().Remove(Get(id));
-            _context.SaveChanges();
+            var toDelete = await GetAsync(id);
+            _context.Set<T>().Remove(toDelete);
+            await _context.SaveChangesAsync();
         }
 
-        public virtual T Get(int id)
+        public virtual async Task<T> GetAsync(int id)
         {
-            return _context.Set<T>().Find(id);
+            return await _context.Set<T>().FindAsync(id);
         }
 
-        public List<T> GetAll()
+        public async Task<List<T>> GetAllAsync()
         {
-            return _context.Set<T>().ToList();
+            return await _context.Set<T>().ToListAsync();
         }
 
-        public T Update(int id, T element)
+        public async Task<T> UpdateAsync(int id, T element)
         {
-            var toUpdate = Get(id);
+            var toUpdate = await GetAsync(id);
 
             if (toUpdate == null)
                 return null;
 
             UpdateData(toUpdate, element);
 
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
             return element;
         }

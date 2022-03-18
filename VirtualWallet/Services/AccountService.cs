@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
 
@@ -16,37 +17,37 @@ namespace VirtualWallet.Services
             _movementRepository = movementRepository;
         }
 
-        public Account Create(Account element)
+        public async Task<Account> Create(Account element)
         {
-            return _accountRepository.Create(element);
+            return await _accountRepository.CreateAsync(element);
         }
 
-        public Account Update(int id, Account element)
+        public async Task<Account> Update(int id, Account element)
         {
-            return _accountRepository.Update(id, element);
+            return await _accountRepository.UpdateAsync(id, element);
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            _accountRepository.Delete(id);
+            await _accountRepository.DeleteAsync(id);
         }
 
-        public Account Get(int id)
+        public async Task<Account> Get(int id)
         {
-            return _accountRepository.Get(id);
+            return await _accountRepository.GetAsync(id);
         }
 
-        public List<Account> GetAll()
+        public async Task<List<Account>> GetAll()
         {
-            return _accountRepository.GetAll();
+            return await _accountRepository.GetAllAsync();
         }
 
-        public string Transfer(int fromId, int toId, double amount)
+        public async Task<string> Transfer(int fromId, int toId, double amount)
         {
             string msj;
 
-            var from = Get(fromId);
-            var to = Get(toId);
+            var from = await Get(fromId);
+            var to = await Get(toId);
 
             if (to == null || from == null)
             {
@@ -56,7 +57,7 @@ namespace VirtualWallet.Services
             {
                 if (amount <= from.Balance)
                 {
-                    msj = _accountRepository.Transfer(from, to, amount);
+                    msj = await _accountRepository.TransferAsync(from, to, amount);
                     Movements movementFrom = new Movements();
                     movementFrom.AccountId = from.Id;
                     movementFrom.Date = System.DateTime.Now;
@@ -69,8 +70,8 @@ namespace VirtualWallet.Services
                     movementTo.Detail = "Received $" + amount + " from account number: " + from.Id;
                     movementTo.Amount = amount;
 
-                    _movementRepository.Create(movementFrom);
-                    _movementRepository.Create(movementTo);
+                    await _movementRepository.CreateAsync(movementFrom);
+                    await _movementRepository.CreateAsync(movementTo);
                 }
                 else
                 {
@@ -81,11 +82,11 @@ namespace VirtualWallet.Services
             return msj;
         }
 
-        public string AddMoney(int idAcount, double amount, string cardNumber, int monthExp, int yearExp)
+        public async Task<string> AddMoney(int idAcount, double amount, string cardNumber, int monthExp, int yearExp)
         {
             string msj;
 
-            var _account = _accountRepository.Get(idAcount);
+            var _account = await _accountRepository.GetAsync(idAcount);
 
             DateTime expiration = new DateTime(yearExp + 2000, monthExp, 1);
 
@@ -93,7 +94,7 @@ namespace VirtualWallet.Services
             {
                 if (_account != null && amount > 0)
                 {
-                    msj = _accountRepository.AddMoney(_account, amount);
+                    msj = await _accountRepository.AddMoneyAsync(_account, amount);
                     string card = cardNumber.Substring(12, 4);
 
                     Movements movement = new Movements();
@@ -102,7 +103,7 @@ namespace VirtualWallet.Services
                     movement.Detail = "You put $" + amount + " into account number " + idAcount + " from card finished in " + card;
                     movement.Amount = amount;
 
-                    _movementRepository.Create(movement);
+                    await _movementRepository.CreateAsync(movement);
                 }
                 else
                 {

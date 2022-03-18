@@ -4,13 +4,12 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using VirtualWallet.Models;
 
 namespace VirtualWallet.IntegrationTests
 {
-    public class CustomWebApplicationFactory<TEntryPoint> : WebApplicationFactory<Program> where TEntryPoint : Program
+    public class CustomAppFactory<TEntryPoint> : WebApplicationFactory<Program> where TEntryPoint : Program
     {
         protected override void ConfigureWebHost(IWebHostBuilder builder)
         {
@@ -20,7 +19,8 @@ namespace VirtualWallet.IntegrationTests
                     d => d.ServiceType ==
                         typeof(DbContextOptions<WalletContext>));
 
-                services.Remove(descriptor);
+                if(descriptor != null)
+                    services.Remove(descriptor);
 
                 services.AddDbContext<WalletContext>(options =>
                 {
@@ -34,7 +34,7 @@ namespace VirtualWallet.IntegrationTests
                     var scopedServices = scope.ServiceProvider;
                     var db = scopedServices.GetRequiredService<WalletContext>();
                     var logger = scopedServices
-                        .GetRequiredService<ILogger<CustomWebApplicationFactory<Program>>>();
+                        .GetRequiredService<ILogger<CustomAppFactory<Program>>>();
 
                     db.Database.EnsureCreated();
 

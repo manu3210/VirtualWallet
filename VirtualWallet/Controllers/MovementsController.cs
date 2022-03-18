@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
+using System.Threading.Tasks;
 using VirtualWallet.DTO;
 using VirtualWallet.Interfaces;
-using VirtualWallet.Models;
 
 namespace VirtualWallet.Controllers
 {
@@ -15,14 +14,14 @@ namespace VirtualWallet.Controllers
             _movementService = movementService;
         }
 
-        public IActionResult Details(int? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var movements = _movementService.Get((int)id);
+            var movements = await _movementService.Get((int)id);
             if (movements == null)
             {
                 return NotFound();
@@ -31,14 +30,14 @@ namespace VirtualWallet.Controllers
             return View(new MovementDto(movements));
         }
 
-        public IActionResult Edit(int? id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var movements = _movementService.Get((int)id);
+            var movements = await _movementService.Get((int)id);
             if (movements == null)
             {
                 return NotFound();
@@ -49,12 +48,12 @@ namespace VirtualWallet.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, string remarks)
+        public async Task<IActionResult> Edit(int id, string remarks)
         {
-            var movement = _movementService.Get(id);
+            var movement = await _movementService.Get(id);
             movement.remarks = remarks;
 
-            _movementService.Update(id, movement);
+            await _movementService.Update(id, movement);
 
             return RedirectToAction("Details", "Accounts", new { id = movement.AccountId });
         }

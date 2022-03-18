@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using System.Threading.Tasks;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
 
@@ -19,33 +20,33 @@ namespace VirtualWallet.Repository
             toUpdate.UserId = element.UserId;
         }
 
-        public override Account Get(int id)
+        public override async Task<Account> GetAsync(int id)
         {
-            return _context.Accounts.Where(c => c.Id == id).Include(m => m.MovementsList).FirstOrDefault();
+            return await _context.Accounts.Where(c => c.Id == id).Include(m => m.MovementsList).FirstOrDefaultAsync();
         }
 
-        public string Transfer(Account from, Account to, double amount)
+        public async Task <string> TransferAsync(Account from, Account to, double amount)
         {
             string msj = "";
 
             from.Balance -= amount;
             to.Balance += amount;
 
-            Update(from.Id, from);
-            Update(to.Id, to);
+            await UpdateAsync(from.Id, from);
+            await UpdateAsync(to.Id, to);
 
             msj = "Successful operation";
 
             return msj;
         }
 
-        public string AddMoney(Account account, double amount)
+        public async Task<string> AddMoneyAsync(Account account, double amount)
         {
             string msj = "";
 
             account.Balance += amount;
 
-            Update(account.Id, account);
+            await UpdateAsync(account.Id, account);
 
             msj = "Successful operation";
 
