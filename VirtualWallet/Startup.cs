@@ -11,6 +11,9 @@ using VirtualWallet.Repository;
 using VirtualWallet.Services;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace VirtualWallet
 {
@@ -35,8 +38,10 @@ namespace VirtualWallet
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
+            
+            //var connection = @"Server=db;Database=VirtualWallet;User=SA;Password=PasswordO1.";
+            services.AddDbContext<WalletContext>(options => options.UseSqlServer(Configuration.GetConnectionString("WalletContextLocal")));
 
-            services.AddDbContext<WalletContext>(options => options.UseSqlServer(Configuration.GetConnectionString("WalletContext")));
 
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IAccountRepository, AccountRepository>();
@@ -45,6 +50,7 @@ namespace VirtualWallet
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IAccountService, AccountService>();
             services.AddScoped<IMovementService, MovementService>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -57,12 +63,12 @@ namespace VirtualWallet
             else
             {
                 app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseAuthentication();
             app.UseRouting();
             app.UseSession();
 

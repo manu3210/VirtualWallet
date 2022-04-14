@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
+using VirtualWallet.DTO;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
 
@@ -23,9 +24,10 @@ namespace VirtualWallet.Repository
             toUpdate.UserName = element.UserName;
         }
 
-        public async Task<User> GetForLoginAsync(string email, string password)
+        public async Task<UserDto> GetForLoginAsync(string email, string password)
         {
-            return await _context.Users.Where(u => u.Email == email && u.Password == password).FirstOrDefaultAsync();
+            var user = await _context.Users.Where(u => u.Email == email && u.Password == password).FirstOrDefaultAsync();
+            return new UserDto(user);
         }
     }
 }

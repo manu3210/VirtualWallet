@@ -11,10 +11,11 @@ namespace VirtualWallet.IntegrationTests
     {
         public static void InitializeDbForTests(WalletContext db)
         {
-            if (db.Users.Any())
-                db.RemoveRange(GenerateDataList());
+            /*if (db.Users.Any())
+                db.RemoveRange(GenerateDataList());*/
 
             db.Users.AddRange(GenerateDataList());
+            db.SaveChanges();
         }
 
         private static List<User> GenerateDataList()
@@ -32,27 +33,27 @@ namespace VirtualWallet.IntegrationTests
                     UserName = "test",
                     Password = "test",
                     AccountList = new List<Account>()
-                    { 
-                        new Account() 
-                        { 
-                            Id = 1, 
-                            Balance = 1000, 
-                            Name = "test", 
-                            Type = 1, 
+                    {
+                        new Account()
+                        {
+                            Id = 1,
+                            Balance = 1000,
+                            Name = "test",
+                            Type = 1,
                             UserId = 1,
                             MovementsList = new List<Movements>()
                             {
                                 new Movements()
                                 {
-                                    AccountId = 1, 
-                                    Amount = 100, 
-                                    Date = DateTime.Now, 
-                                    Detail = "test", 
-                                    Id = 1, 
+                                    AccountId = 1,
+                                    Amount = 100,
+                                    Date = DateTime.Now,
+                                    Detail = "test",
+                                    Id = 1,
                                     remarks = "test"
                                 }
                             }
-                        }, 
+                        },
                     }
                 },
 

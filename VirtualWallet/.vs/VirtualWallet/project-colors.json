@@ -20,7 +20,12 @@
       "ProjectGuid": "ff8640ed-401c-4edc-b39d-9429e1b2a68a",
       "DisplayName": "VirtualWallet.UnitTests",
       "ColorIndex": 2
+    },
+    "62e46627-01b2-4964-8626-3a2d513c109b": {
+      "ProjectGuid": "62e46627-01b2-4964-8626-3a2d513c109b",
+      "DisplayName": "VirtualWallet.IntegrationTests",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

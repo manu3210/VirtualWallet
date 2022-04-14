@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using VirtualWallet.DTO;
@@ -48,6 +50,11 @@ namespace VirtualWallet.Controllers
         public IActionResult Create()
         {
             return View();
+        }
+
+        public IActionResult SignIn()
+        {
+            return View("SignIn");
         }
 
         [HttpPost]
@@ -142,9 +149,6 @@ namespace VirtualWallet.Controllers
             return View();
         }
 
-        public IActionResult SignIn()
-        {
-            return View("SignIn");
-        }
+        
     }
 }

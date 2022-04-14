@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -17,6 +18,7 @@ namespace VirtualWallet.Controllers
             _accountService = accountService;
         }
 
+        
         public async Task<IActionResult> Index()
         {
             return View(await GetAccountList());
@@ -45,7 +47,7 @@ namespace VirtualWallet.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Name,Type")] AccountDto account)
+        public async Task<IActionResult> Create( AccountDto account)
         {
             if (ModelState.IsValid)
             {
@@ -73,7 +75,7 @@ namespace VirtualWallet.Controllers
             return View(new AccountDto(account));
         }
 
-        [HttpPost]
+        [HttpPut]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Type,Balance")] AccountDto account)
         {
@@ -107,7 +109,7 @@ namespace VirtualWallet.Controllers
             return View(new AccountDto(account));
         }
 
-        [HttpPost, ActionName("Delete")]
+        [HttpDelete, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -120,7 +122,7 @@ namespace VirtualWallet.Controllers
             return View(await GetAccountList());
         }
 
-        [HttpPost]
+        [HttpPut]
         public async Task<IActionResult> Transfer(int fromId, int toId, double amount)
         {
             string result = await _accountService.Transfer(fromId, toId, amount);

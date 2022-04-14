@@ -51,6 +51,10 @@ namespace VirtualWallet.Controllers
         public async Task<IActionResult> Edit(int id, string remarks)
         {
             var movement = await _movementService.Get(id);
+
+            if(movement == null)
+                return NotFound();
+
             movement.remarks = remarks;
 
             await _movementService.Update(id, movement);

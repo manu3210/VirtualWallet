@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using VirtualWallet.DTO;
 using VirtualWallet.Interfaces;
 using VirtualWallet.Models;
 
@@ -39,9 +40,10 @@ namespace VirtualWallet.Services
             return await _userRepository.GetAllAsync();
         }
 
-        public async Task<User> GetForLogin(string email, string password)
+        public async Task<UserDto> GetForLogin(string email, string password)
         {
-            return await _userRepository.GetForLoginAsync(email, password);
+            var user = await _userRepository.GetForLoginAsync(email, password);
+            return user;
         }
     }
 }
